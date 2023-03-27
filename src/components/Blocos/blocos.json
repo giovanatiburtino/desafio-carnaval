@@ -1,0 +1,65 @@
+[
+    {
+        "id": "01",
+        "name": "O Python do vovô não sobe mais",
+        "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+        "location": "São Paulo - SP",
+        "imageUrl": "../../assets/bloco1.jpg"
+    },
+    {
+        "id": "02",
+        "name": "Todo mundo null",
+        "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+        "location": "Florianópolis - SC",
+        "imageUrl": "../../assets/bloco2.jpg"
+    },
+    {
+        "id": "03",
+        "name": "Hoje dou exception",
+        "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+        "location": "Curitiba - PR",
+        "imageUrl": "https://unsplash.com/pt-br/fotografias/cCIVkw4K27A"
+    },
+    {
+        "id": "04",
+        "name": "Manda Node",
+        "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+        "location": "Salvador - BA",
+        "imageUrl": "https://unsplash.com/pt-br/fotografias/X1OK9of41Ho"
+    },
+    {
+        "id": "05",
+        "name": "Só no back-end",
+        "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+        "location": "São Paulo - SP",
+        "imageUrl": "https://unsplash.com/pt-br/fotografias/45ocBSzeyXE"
+    },
+    {
+        "id": "06",
+        "name": "Esse anel não é de Ruby",
+        "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+        "location": "São Paulo - SP",
+        "imageUrl": "https://unsplash.com/pt-br/fotografias/EFgtRBY0g7E"
+    },
+    {
+        "id": "07",
+        "name": "Pimenta no C# dos outros é refresco",
+        "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+        "location": "Rio de Janeiro - RJ",
+        "imageUrl": "https://unsplash.com/pt-br/fotografias/R4pxoOXQorY"
+    },
+    {
+        "id": "08",
+        "name": "EnCACHE aqui",
+        "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+        "location": "Porto Alegre - RS",
+        "imageUrl": "https://unsplash.com/pt-br/fotografias/fIHozNWfcvs"
+    },
+    {
+        "id": "09",
+        "name": "Não valho nada mas JAVA li",
+        "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+        "location": "São Paulo - SP",
+        "imageUrl": "https://unsplash.com/pt-br/fotografias/G7VEYaDm8I0"
+    }
+]
